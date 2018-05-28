@@ -2,8 +2,8 @@
   "@context": ["http://www.w3.org/ns/csvw", {"@language": "en"}],
   "rdfs:comment": ["inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/"],
   "tables": [
-    { "url": "http://rspb.royalsocietypublishing.org/highwire/filestream/78551/field_highwire_adjunct_files/3/rspb20172116supp4.csv",
-      "referenceDoi": "doi:10.1098/rspb.2017.2116",
+    { "url": "http://rspb.royalsocietypublishing.org/highwire/filestream/80336/field_highwire_adjunct_files/3/rspb20172116supp4.csv",
+      "referenceDoi": "10.1098/rspb.2017.2116",
       "decimalLatitude":"36.80",
       "decimalLongitude": "-121.90",
       "localityId": "GEONAMES:5374363",

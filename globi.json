@@ -3,7 +3,7 @@
   "rdfs:comment": ["inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/"],
   "tables": [
     { "_url": "http://rspb.royalsocietypublishing.org/highwire/filestream/80336/field_highwire_adjunct_files/3/rspb20172116supp4.csv",
-      "url": "datasets/local/3aea4096490d0fb7f258a31ef162ee9359ac15659f7ee84af26158e8e4a4be2a",
+      "url": "3aea4096490d0fb7f258a31ef162ee9359ac15659f7ee84af26158e8e4a4be2a",
       "referenceDoi": "10.1098/rspb.2017.2116",
       "decimalLatitude":"36.80",
       "decimalLongitude": "-121.90",

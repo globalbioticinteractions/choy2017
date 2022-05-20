@@ -1,5 +1,5 @@
 # choy2017
-[![Build Status](https://travis-ci.com/globalbioticinteractions/choy2017.svg)](https://travis-ci.com/globalbioticinteractions/choy2017) [![DOI](https://zenodo.org/badge/55425770.svg)](https://zenodo.org/badge/latestdoi/55425770) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/choy2017)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/choy2017)
+[![GloBI review by Elton](https://github.com/globalbioticinteractions/choy2017/actions/workflows/review.yml/badge.svg)](https://github.com/globalbioticinteractions/choy2017/actions) [![DOI](https://zenodo.org/badge/55425770.svg)](https://zenodo.org/badge/latestdoi/55425770) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/choy2017)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/choy2017)
 
 
 

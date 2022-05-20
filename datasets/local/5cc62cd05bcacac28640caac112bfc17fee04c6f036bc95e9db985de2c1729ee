@@ -1,0 +1,15 @@
+{
+    "columns": [{
+      "name": "sourceTaxonName",
+      "titles": "PredatorID",
+      "datatype": "string"
+    },{
+      "name": "targetTaxonName",
+      "titles": "PreyID",
+      "datatype": "string"
+    },{
+      "name": "count",
+      "titles": "count",
+      "datatype": "string"
+    }]
+  }
